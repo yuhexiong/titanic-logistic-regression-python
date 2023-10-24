@@ -29,11 +29,6 @@
 
 ![image](https://github.com/yuhexiong/titanic-logistic-regression-python/blob/main/image/pclass-survive.png)
 
-
-## Layer
-
-![image](https://github.com/yuhexiong/digit-recognition-CNN-python/blob/main/image/cnn_layers.png)
-
 ## Confusion Matrix - Accuracy Rate 75.84%
 
 ![image](https://github.com/yuhexiong/titanic-logistic-regression-python/blob/main/image/confusion_mtx.png)
