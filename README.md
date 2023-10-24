@@ -13,11 +13,11 @@
 
 ## Data Distribution
 
-### Age Before fill Null
+### Age Before Fill Null
 
 ![image](https://github.com/yuhexiong/titanic-logistic-regression-python/blob/main/image/age-survive-before.png)
 
-### Age After fill Null
+### Age After Fill Null
 
 ![image](https://github.com/yuhexiong/titanic-logistic-regression-python/blob/main/image/age-survive-after.png)
 
