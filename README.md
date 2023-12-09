@@ -2,7 +2,11 @@
 
 ### DataSet From [Kaggle Competition - Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
+## Overview
+
+- Language: Python v3.9.15
 - Package: Scikit-Learn
+- Model: Logistic Regression
 - Loss Function: Cross Entropy
 - Use get dummies to convert type of data
 - Filter features manually
